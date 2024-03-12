@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Currently working on a mod manager for smash ultimate using electron.
+I'm learning to sing scream. I love music. 
